@@ -2,10 +2,27 @@
 
 
 ## Dataset
-To reproduce the results reported in the paper, we provide the Spider dataset of the official dataset and the processed .json files used in methods.
+To reproduce the results reported in the paper, please download the Spider dataset from the link below and put it in data directory. 
+
+```
+$ Spider dataset = "https://drive.google.com/uc?export=download&id=1TqleXec_OykOYFREKKtschzY29dUcVAQ"
+```
+
+In data directory，we also provide the processed .json files used in methods.
+
+
 
 ## Models
 We also offer the original models which are mentioned in the paper and the sql_schema.json file which is used for fine-tuning. To reproduce the results, you should load fine tuned model.
+
+```
+$ git clone https://huggingface.co/meta-llama/Meta-Llama-3-70B-Instruct
+$ git clone https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct
+$ git clone https://huggingface.co/Qwen/Qwen1.5-7B-Chat
+$ git clone https://huggingface.co/Qwen/Qwen1.5-14B-Chat
+```
+
+
 
 ## Setup
 
