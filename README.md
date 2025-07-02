@@ -39,12 +39,12 @@ $ echo "Finished running DSLES-SQL.py"
 ## Citation 
 
 ``` 
-corresponding author: Kangping Wang
+corresponding author: Tian Bai
 Key Laboratory of Symbolic Computation and Knowledge Engineering of the Ministry of Education
 College of Computer Science and Technology
 Jilin University
 Changchun, China
-wangkp@jlu.edu.cn
+baitian@jlu.edu.cn
 
 In submission
  
